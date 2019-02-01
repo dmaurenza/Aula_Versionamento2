@@ -1,5 +1,6 @@
 # setwd("/media/user/Daniel/Banco dados/") # Talvez seja precipitado... mas podemos conversar sobre isso (https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
 
+## caminhos das pastas
 
 # Instaling packages ------------------------------------------------------
 library(raster)
