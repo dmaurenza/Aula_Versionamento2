@@ -15,3 +15,4 @@ ggplot(mtcars, aes(x = mpg, y = disp)) + geom_point()
 # Previamente foi criado um repositorio na conta online.
 # Criar um novo projeto, com a terceira opção (version control).
 # Criar commit
+Adicionando
